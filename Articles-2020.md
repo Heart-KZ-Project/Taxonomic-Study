@@ -1,3 +1,0 @@
-# MICCAI
-## Bayesian
-...table...
