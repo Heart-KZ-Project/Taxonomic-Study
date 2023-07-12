@@ -11,10 +11,6 @@
 
 ## NIPS (NeurIPS)
 
-| Title | Code |
-| ----- | ---- |
-| [Learning Disentangled Representations with Semi-Supervised Deep Generative Models](https://arxiv.org/abs/1706.00400) | [Code](https://github.com/probtorch/probtorch) |
-
 ## ICLR
 
 ## AAAI
